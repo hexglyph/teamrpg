@@ -1,34 +1,119 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hex Team Impact
 
-## Getting Started
+This project is about a team management tool with gaming features, where you can create teams, invite members, create events, activities, and more.
 
-First, run the development server:
+## Installation
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Usage
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Credits
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Hexglyph(Daniel Niemietz Braz) - https://danielniebraz.dev - Developer
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## License
 
-## Learn More
+## About
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Nextjs
+React
+Typescript
+MongoDB
+TailwindCSS
+Vercel
+Github
+Git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ToDos
 
-## Deploy on Vercel
+    ## Frontend
+    - [ ] Create a team
+    - [ ] Invite members to a team
+    - [ ] Create events
+    - [ ] Create activities
+    - [ ] Create a profile
+    - [ ] Create a dashboard
+    - [ ] Create a login page
+    - [ ] Create a register page
+    - [ ] Create a forgot password page
+    - [ ] Create a reset password page
+    - [ ] Create a 404 page
+    - [ ] Create a 500 page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ## Backend
+    - [ ] Create a team
+    - [ ] Invite members to a team
+    - [ ] Create events
+    - [ ] Create activities
+    - [ ] Create a profile
+    - [ ] Create a dashboard
+    - [ ] Create a login page
+    - [ ] Create a register page
+    - [ ] Create a forgot password page
+    - [ ] Create a reset password page
+    - [ ] API documentation
+    - [ ] MongoDB setup
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ## DevOps
+    - [ ] Create a CI/CD pipeline
+    - [ ] Create a .env.example file
+    - [ ] Create a .env file
+    - [ ] Create a .gitignore file
+    - [ ] Create a .prettierrc file
+    - [ ] Create a .eslintrc file
+
+    ## Documentation
+    - [ ] Create a README.md file
+    - [ ] Create a LICENSE file
+
+    ## Testing
+    - [ ] Create a test file
+
+    ## Features
+    - [ ] Experience system
+    - [ ] Level system
+    - [ ] Points system
+    - [ ] Badges system
+    - [ ] Achievements system
+    - [ ] Leaderboard system
+    - [ ] Team system
+    - [ ] Event system
+    - [ ] Activity system
+    - [ ] Profile system
+    - [ ] Experince bar
+    - [ ] Level bar
+    - [ ] Map system
+    - [ ] Chat system
+    - [ ] Notifications system
+    - [ ] Tasks system
+    - [ ] Tasks board system
+    - [ ] Calendar system
+    - [ ] Collect system
+    - [ ] Collaborative system
+    - [ ] Team management system
+    - [ ] Class system
+    - [ ] Equipment system
+    - [ ] Inventory system
+    - [ ] Shop system
+    - [ ] Store system
+    - [ ] Market system
+    - [ ] Quest system
+    - [ ] Quest board system
+    - [ ] Quest log system
+    - [ ] Quest tracker system
+    - [ ] Quest journal system
+    - [ ] Bookshelf system
+    - [ ] Skill system
+    - [ ] Skill tree system
+    - [ ] Skill bar system
+    - [ ] Skill points system
+    - [ ] Skill level system
+    - [ ] Skill book system
+
+## Changelog
+
+    ## 0.0.1
+    - [ ] Initial commit
